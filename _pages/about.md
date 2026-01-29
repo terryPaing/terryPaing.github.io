@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 I have compiled all of my projects and reports here.
-===
 Please take a look!
